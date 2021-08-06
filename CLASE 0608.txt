@@ -1,0 +1,12 @@
+Usuario Administrador 
+  -Puede gestionar usuario (Eliminar , crear , modificar , definir , establecer privilegio y puede definir restricciones.)
+  -Crear copias de seguridad (Politica de copia de seguridad o en otras palabras respaldo de las bases de datos)
+  -Generar las restauraciones de la base de datos cuando se amerita.
+  -Monitorear usuarios y gestion de transacciones.
+  -Auditar la base de datos:
+     Garantizar lo posible que se respeten los diseños relativos a traves de algebra relacional¿¿¿¿¿¿¿¿ wtf allan
+     investigar esto mae.
+  (LOS REGISTROS NO SE ELIMINAN SOLO SE DAN DE BAJA )
+
+	Soy desarrollador y me gusta mamar .
+
